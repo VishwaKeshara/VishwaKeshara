@@ -1,6 +1,6 @@
 <!-- Profile Header with Avatar -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="100" alt="Avatar">
+  <img src="https://avatars.githubusercontent.com/u/VishwaKeshara?v=4" width="100" alt="Avatar">
   <h1>Welcome to VishwaKeshara's GitHub Profile!</h1>
   <p>Developer, Creator, and Open Source Enthusiast</p>
 </div>
