@@ -59,7 +59,7 @@
 <!-- Social Links -->
 <h2 align="center">Connect with Me 🌐</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/vishwa-keshara-6255332a5/"><img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"></a>
   <a href="https://twitter.com/YOUR_TWITTER_USERNAME"><img src="https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter"></a>
   <a href="https://YOUR_WEBSITE_URL"><img src="https://img.shields.io/badge/Website-informational?style=flat&logo=google-chrome&logoColor=white&color=orange" alt="Website"></a>
   <!-- Add more social links as needed -->
