@@ -40,8 +40,8 @@
 <h2 align="center">Projects & Repositories 🚀</h2>
 <div align="center">
   <p>Explore some of my favorite projects!</p>
-  <a href="https://github.com/VishwaKeshara/PROJECT_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishwaKeshara&repo=PROJECT_NAME&theme=github_dark" alt="Project Name">
+  <a href="https://github.com/VishwaKeshara/YOUR_PROJECT_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishwaKeshara&repo=YOUR_PROJECT_NAME&theme=github_dark" alt="Project Name">
   </a>
   <!-- Add more pinned repositories as needed -->
 </div>
@@ -59,9 +59,9 @@
 <!-- Social Links -->
 <h2 align="center">Connect with Me 🌐</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"></a>
-  <a href="https://twitter.com/YOUR_TWITTER_PROFILE"><img src="https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter"></a>
-  <a href="https://YOUR_PERSONAL_WEBSITE"><img src="https://img.shields.io/badge/Website-informational?style=flat&logo=google-chrome&logoColor=white&color=orange" alt="Website"></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"></a>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME"><img src="https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter"></a>
+  <a href="https://YOUR_WEBSITE_URL"><img src="https://img.shields.io/badge/Website-informational?style=flat&logo=google-chrome&logoColor=white&color=orange" alt="Website"></a>
   <!-- Add more social links as needed -->
 </p>
 
