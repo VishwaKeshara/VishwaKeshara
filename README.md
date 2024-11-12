@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://github.com/username/profile-header-image.png" alt="Header Image" width="100%" />
+  <img src="https://github.com/https://wallpapers.com/wallpapers/futuristic-c-p-uand-circuitry-570naq373suy8w6l.html/>
 </p>
 
 <h1 align="center">Hello, I'm Keshara 👋</h1>
