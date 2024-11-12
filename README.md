@@ -3,7 +3,7 @@
   <img src="https://github.com/username/profile-header-image.png" alt="Header Image" width="100%" />
 </p>
 
-<h1 align="center">Hello, I'm [Your Name] 👋</h1>
+<h1 align="center">Hello, I'm Keshara 👋</h1>
 <p align="center">Welcome to my GitHub profile!</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
