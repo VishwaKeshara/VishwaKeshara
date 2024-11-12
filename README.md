@@ -1,71 +1,91 @@
-<!-- Profile Header with Avatar -->
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/VishwaKeshara?v=4" width="100" alt="Avatar">
-  <h1>Welcome to VishwaKeshara's GitHub Profile!</h1>
-  <p>Developer, Creator, and Open Source Enthusiast</p>
-</div>
-
----
-
-<!-- GitHub Metrics and Stats -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishwaKeshara&theme=github_dark" alt="Profile Details">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VishwaKeshara&theme=github_dark" alt="Streak Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VishwaKeshara&theme=github_dark" alt="Top Languages">
-</div>
-
----
-
-<!-- Activity and Contribution Chart -->
-<div align="center">
-  <h2>Commit Activity and Contribution Stats</h2>
-  <img src="https://activity-graph.herokuapp.com/graph?username=VishwaKeshara&theme=github_dark&hide_border=true" alt="Contribution Graph">
-</div>
-
----
-
-<!-- Technologies and Tools -->
-<h2 align="center">Technologies & Tools 🛠️</h2>
+<!-- Header Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow" />
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue" />
-  <img src="https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=cyan" />
-  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=orange" />
-  <!-- Add more badges as needed -->
+  <img src="https://github.com/username/profile-header-image.png" alt="Header Image" width="100%" />
+</p>
+
+<h1 align="center">Hello, I'm [Your Name] 👋</h1>
+<p align="center">Welcome to my GitHub profile!</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/username"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-<!-- Projects Section -->
-<h2 align="center">Projects & Repositories 🚀</h2>
-<div align="center">
-  <p>Explore some of my favorite projects!</p>
-  <a href="https://github.com/VishwaKeshara/YOUR_PROJECT_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishwaKeshara&repo=YOUR_PROJECT_NAME&theme=github_dark" alt="Project Name">
+<!-- Introduction -->
+### About Me
+I'm a passionate developer focused on creating impactful software solutions. With a strong background in [Field/Technologies], I strive to push the boundaries of technology through innovative and reliable applications.
+
+- 🔭 Currently working on [Project Name]
+- 🌱 Currently learning [Technology/Skill]
+- 👯 Looking to collaborate on [Types of Projects]
+- 💬 Ask me about [Topics]
+- 📫 How to reach me: [Contact Info]
+- ⚡ Fun fact: [Interesting Fact]
+
+---
+
+<!-- Technologies Section -->
+### 🚀 Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <!-- Add more badges for the technologies you use -->
+</p>
+
+---
+
+<!-- GitHub Stats Section -->
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<!-- Trophies Section -->
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=onedark&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+<!-- Project Section -->
+### 📚 Featured Projects
+<p align="center">
+  <a href="https://github.com/username/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=project1&theme=radical" />
   </a>
-  <!-- Add more pinned repositories as needed -->
-</div>
-
----
-
-<!-- Spotify Now Playing Section -->
-<h2 align="center">🎶 Now Playing on Spotify</h2>
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing">
-</div>
-
----
-
-<!-- Social Links -->
-<h2 align="center">Connect with Me 🌐</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishwa-keshara-6255332a5/"><img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"></a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME"><img src="https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter"></a>
-  <a href="https://YOUR_WEBSITE_URL"><img src="https://img.shields.io/badge/Website-informational?style=flat&logo=google-chrome&logoColor=white&color=orange" alt="Website"></a>
-  <!-- Add more social links as needed -->
+  <a href="https://github.com/username/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=project2&theme=radical" />
+  </a>
+  <!-- Add more projects if needed -->
 </p>
 
-<!-- Footer with GitHub Metrics Link -->
-<div align="center">
-  <p>Generated with <a href="https://metrics.lecoq.io/">GitHub Metrics</a></p>
-</div>
+---
+
+<!-- Activity Graph Section -->
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=username&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+<!-- Footer Section -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/username?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/username?label=Stars&style=social" alt="GitHub Stars" />
+</p>
+
+---
+
+<p align="center">Thanks for stopping by! 😊</p>
