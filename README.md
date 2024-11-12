@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://wallpapers.com/wallpapers/futuristic-c-p-uand-circuitry-570naq373suy8w6l.html"/>
+  <img src="H:\My Drive\Phone\Saved Pictures\futuristic.jpg"/>
 </p>
 
 <h1 align="center">Hello, I'm Keshara 👋</h1>
