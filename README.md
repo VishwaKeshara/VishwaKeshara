@@ -17,12 +17,11 @@
 ### About Me
 I'm a passionate developer focused on creating impactful software solutions. With a strong background in [Field/Technologies], I strive to push the boundaries of technology through innovative and reliable applications.
 
-- 🔭 Currently working on [Project Name]
-- 🌱 Currently learning [Technology/Skill]
-- 👯 Looking to collaborate on [Types of Projects]
-- 💬 Ask me about [Topics]
-- 📫 How to reach me: [Contact Info]
-- ⚡ Fun fact: [Interesting Fact]
+- 🌱 Currently learning Java, Phython, and React Native
+- 💬 Ask me about Web
+- 📫 How to reach me: vishwak1027@gmail.com
+- 👨‍💻 Sophophile
+ 
 
 ---
 
