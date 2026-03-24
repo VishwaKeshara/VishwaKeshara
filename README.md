@@ -75,17 +75,24 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishwaKeshara&theme=onestar&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vishwakeshara&theme=onestar&no-frame=true&margin-w=15"/>
 </p>
+
+**Highlights:**  
+- 🦈 **Pull Shark** – Successfully merged pull requests  
+- ⚡ **Quickdraw** – Fast issue/PR management
+
 
 ---
 
 ## 📌 Featured Projects
 
-- 🚐 **Shuttle Management System (MERN Stack)**  
-- 🐾 **Veterinary Management System (MERN Stack)**  
-- 🌐 **Spring Boot REST API Systems**  
-- 📱 **Mobile Applications (React Native / Android)**  
+- 🚐 **Shuttle Management System (MERN Stack)** – Booking & routing solution for university students  
+- 🐾 **Veterinary Management System (MERN)** – Pet appointments & vet service management  
+- 🌐 **Spring Boot Backend APIs** – RESTful APIs with authentication & role-based access  
+- 🏨 **Hotel Management System (Java)** – Full-featured hotel booking and management application  
+- 📸 **Photography Management System (HTML, CSS, PHP)** – Manage photo galleries, clients, and bookings online  
+- 📱 **Mobile Applications (React Native / Android)** – Mobile apps for real-world use
 
 ---
 
