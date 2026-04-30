@@ -82,17 +82,35 @@
 - 🦈 **Pull Shark** – Successfully merged pull requests  
 - ⚡ **Quickdraw** – Fast issue/PR management
 
-
 ---
 
 ## 📌 Featured Projects
 
-- 🚐 **Shuttle Management System (MERN Stack)** – Booking & routing solution for university students  
-- 🐾 **Veterinary Management System (MERN)** – Pet appointments & vet service management  
-- 🌐 **Spring Boot Backend APIs** – RESTful APIs with authentication & role-based access  
-- 🏨 **Hotel Management System (Java)** – Full-featured hotel booking and management application  
-- 📸 **Photography Management System (HTML, CSS, PHP)** – Manage photo galleries, clients, and bookings online  
-- 📱 **Mobile Applications (React Native / Android)** – Mobile apps for real-world use
+- 🎓 **SLIIT_Nexus (Smart Campus System)**  
+  A comprehensive smart campus platform designed for university students and lecturers.  
+  Built using **Spring Boot & React**, providing features like academic management, communication, and system integration.
+
+- 🚌 **SLIIT_UniRide (Smart Transport Management System)**  
+  A smart transport solution for university students and lecturers.  
+  Includes route management, scheduling, and booking features to improve campus transportation efficiency.
+
+- 🚐 **Shuttle Management System (MERN Stack)**  
+  Booking & routing solution for university students.
+
+- 🐾 **Veterinary Management System (MERN)**  
+  Pet appointments & veterinary service management system.
+
+- 🌐 **Spring Boot Backend APIs**  
+  RESTful APIs with authentication & role-based access control.
+
+- 🏨 **Hotel Management System (Java)**  
+  Full-featured hotel booking and management application.
+
+- 📸 **Photography Management System (HTML, CSS, PHP)**  
+  Manage photo galleries, clients, and bookings online.
+
+- 📱 **Mobile Applications (React Native / Android)**  
+  Mobile apps built for real-world use cases.
 
 ---
 
