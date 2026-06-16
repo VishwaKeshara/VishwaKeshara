@@ -83,14 +83,11 @@ Comprehensive smart campus platform built using Spring Boot and React.
 
 University transport management solution with scheduling and route management features.
 
-### 🚐 Shuttle Management System (MERN)
-
-Booking and routing solution for university transportation.
-
 ### 🐾 Veterinary Management System (MERN)
 
 Pet appointments and veterinary service management platform.
 
-### 🌐 Spring Boot Backend APIs
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishwaKeshara&theme=github_dark" />
+</p>
 
-RESTful APIs with authentication and role-based access control.
