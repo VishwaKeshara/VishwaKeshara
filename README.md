@@ -22,6 +22,13 @@
 
 ## 🛠️ Tech Stack
 
+<img src="https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_CodeBuild-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_CodeDeploy-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_ECR-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+
 ### ☁️ Cloud & DevOps
 
 * AWS
