@@ -16,7 +16,7 @@
 * 🔧 Exploring **Kubernetes, Infrastructure as Code, and Cloud Security**
 * 📱 Interested in Mobile Application Development
 * 💬 Ask me about **AWS, Docker, CI/CD, MERN Stack, Spring Boot, and REST APIs**
-* 📫 Email: **[vishwak1027@gmail.com](mailto:vishwak1027@gmail.com)**
+* 📫 Email: **[vishk1027@gmail.com](mailto:vishk1027@gmail.com)**
 
 ---
 
